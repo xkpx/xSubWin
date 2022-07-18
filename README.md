@@ -32,6 +32,7 @@
 	Git
 	
 ===============================================
+
 	// Automation
 	Install Via Choco , then add settings files.
 	Make : cron for auto update all programs installed via choco and reaply config
