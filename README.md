@@ -1,4 +1,5 @@
 ===============================================
+
 	// Programs and stuff
 	7zip curl https://sourceforge.net/projects/sevenzip/files/latest/download -L --output C:\Users\Administrator\Desktop\7z.exe
 	VLC	(video)
