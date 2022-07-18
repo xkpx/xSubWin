@@ -2,13 +2,12 @@
 
 	// Programs and stuff
 	7zip curl https://sourceforge.net/projects/sevenzip/files/latest/download -L --output C:\Users\Administrator\Desktop\7z.exe
-	VLC	(video)
 	Winamp(mp3)
+	VLC	(video)
 	Chrome (ublock origin, bookmarks, settings(privacy,download,pdf,office))
 	Firefox ESR (ublock origin, bookmarks, settings(privacy,download,pdf,office))
 	Brave (ublock origin, bookmarks, settings(privacy,download,pdf,office))
-	Winscp
-	FileZilla
+	Winscp / FileZilla
 	VirtualCloneDrive
 	qBittorent
 	Notepad++
@@ -37,3 +36,6 @@
 	Install Via Choco , then add settings files.
 	Make : cron for auto update all programs installed via choco and reaply config
 	
+	VCD + qBittorent not availabe + Speecy + IlovePDF
+	 
+	choco install googlechrome 7zip winamp vlc-nightly firefoxesr winscp notepadplusplus ccleaner oraclejdk server-jre nodejs python go git
